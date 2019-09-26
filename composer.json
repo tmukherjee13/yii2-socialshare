@@ -1,5 +1,5 @@
 {
-    "name": "black-lamp/yii2-socialshare",
+    "name": "tmukherjee13/yii2-socialshare",
     "description": "Social share widget for the Yii2 Framework",
     "keywords": ["yii2", "widget", "social", "share", "networks"],
     "type": "yii2-extension",
@@ -15,6 +15,10 @@
         {
             "name": "Vladimir Kuprienko",
             "email": "vldmr.kuprienko@gmail.com"
+        },
+        {
+            "name": "Tarun Mukherjee",
+            "email": "tmukherjee13@gmail.com"
         }
     ],
     "autoload": {
