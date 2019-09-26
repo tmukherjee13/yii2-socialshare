@@ -22,11 +22,11 @@ Installation
 ------------
 #### Run command
 ```
-composer require black-lamp/yii2-socialshare
+composer require tmukherjee13/yii2-socialshare
 ```
 or add
 ```json
-"black-lamp/yii2-socialshare": "1.*.*"
+"tmukherjee13/yii2-socialshare": "1.*"
 ```
 to the require section of your composer.json.
 #### Add 'SocialShare' component to application config
