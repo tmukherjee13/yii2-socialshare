@@ -145,6 +145,10 @@ public function getLink($url, $title, $description, $image, $component)
 }
 ```
 
+## UPDATE
+This fork fixes the conflict of using Object in classes since in PHP 7.2 Object is a reserved keyword.
+
+
 Other extensions
 ----------------
 [yii2-social-networks](https://github.com/black-lamp/yii2-social-networks) - this widget adds links to social networks
