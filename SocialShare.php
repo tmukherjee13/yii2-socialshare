@@ -1,7 +1,7 @@
 <?php
 namespace bl\socialShare;
 
-use yii\base\Object;
+use yii\base\BaseObject;
 
 use bl\socialShare\widgets\SocialShareWidget;
 
@@ -47,7 +47,7 @@ use bl\socialShare\widgets\SocialShareWidget;
  * ]
  * ```
  */
-class SocialShare extends Object
+class SocialShare extends BaseObject
 {
     /**
      * @var array Configuration social networks classes
