@@ -2,7 +2,7 @@
 namespace bl\socialShare\base;
 
 use yii;
-use yii\base\Object;
+use yii\base\BaseObject;
 use yii\helpers\Html;
 
 use bl\socialShare\SocialShare;
@@ -13,7 +13,7 @@ use bl\socialShare\SocialShare;
  * @property string $label
  * @property array $attributes
  */
-abstract class SocialNetwork extends Object
+abstract class SocialNetwork extends BaseObject
 {
     /**
      * Social network link label
